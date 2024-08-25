@@ -1,0 +1,6 @@
+@Servicio_GestorDocumentario_HostAddress = http://localhost:5171
+
+GET {{Servicio_GestorDocumentario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
